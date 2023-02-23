@@ -1,0 +1,131 @@
+Name                           Value                                                                                   
+----                           -----                                                                                   
+$                                                                                                                      
+?                              True                                                                                    
+^                                                                                                                      
+args                           {}                                                                                      
+ConfirmPreference              High                                                                                    
+ConsoleFileName                                                                                                        
+DebugPreference                SilentlyContinue                                                                        
+Error                          {}                                                                                      
+ErrorActionPreference          Continue                                                                                
+ErrorView                      NormalView                                                                              
+ExecutionContext               System.Management.Automation.EngineIntrinsics                                           
+false                          False                                                                                   
+FormatEnumerationLimit         4                                                                                       
+HOME                           C:\WINDOWS\system32\config\systemprofile                                                
+Host                           System.Management.Automation.Internal.Host.InternalHost                                 
+InformationPreference          SilentlyContinue                                                                        
+input                          System.Collections.ArrayList+ArrayListEnumeratorSimple                                  
+MaximumAliasCount              4096                                                                                    
+MaximumDriveCount              4096                                                                                    
+MaximumErrorCount              256                                                                                     
+MaximumFunctionCount           4096                                                                                    
+MaximumHistoryCount            4096                                                                                    
+MaximumVariableCount           4096                                                                                    
+MyInvocation                   System.Management.Automation.InvocationInfo                                             
+NestedPromptLevel              0                                                                                       
+null                                                                                                                   
+OutputEncoding                 System.Text.ASCIIEncoding                                                               
+PID                            25832                                                                                   
+PROFILE                        WindowsPowerShell\Microsoft.PowerShell_profile.ps1                                      
+ProgressPreference             Continue                                                                                
+PSBoundParameters              {}                                                                                      
+PSCommandPath                  C:\ProgramData\CentraStage\Packages\49fev6a1-945d-40ca-914a-f991d90b5786#\command.ps1   
+PSCulture                      en-US                                                                                   
+PSDefaultParameterValues       {}                                                                                      
+PSEdition                      Desktop                                                                                 
+PSEmailServer                                                                                                          
+PSHOME                         C:\Windows\System32\WindowsPowerShell\v1.0                                              
+PSScriptRoot                   C:\ProgramData\CentraStage\Packages\493dc6a1-995d-40ca-914a-f991d90b5786#               
+PSSessionApplicationName       wsman                                                                                   
+PSSessionConfigurationName     http://schemas.microsoft.com/powershell/Microsoft.PowerShell                            
+PSSessionOption                System.Management.Automation.Remoting.PSSessionOption                                   
+PSUICulture                    en-US                                                                                   
+PSVersionTable                 {PSVersion, PSEdition, PSCompatibleVersions, BuildVersion...}                           
+PWD                            C:\ProgramData\CentraStage\Packages\493dc6a1-995d-40ca-914a-f991d90b5786#               
+ShellId                        Microsoft.PowerShell                                                                    
+StackTrace                                                                                                             
+true                           True                                                                                    
+VerbosePreference              SilentlyContinue                                                                        
+WarningPreference              Continue                                                                                
+WhatIfPreference               False                                                                                   
+
+
+Name                           Value                                                                                   
+----                           -----                                                                                   
+site_variables                 <values>                                                       
+ALLUSERSPROFILE                C:\ProgramData                                                                          
+APPDATA                        C:\WINDOWS\system32\config\systemprofile\AppData\Roaming                                
+CommonProgramFiles             C:\Program Files\Common Files                                                           
+CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files                                                     
+CommonProgramW6432             C:\Program Files\Common Files                                                           
+COMPUTERNAME                   DESKTOP-NAME                                                                        
+ComSpec                        C:\WINDOWS\system32\cmd.exe                                                             
+CS_ACCOUNT_UID                 <ID_HERE>                                                                                
+CS_CC_HOST                     <host>>.centrastage.net                                                               
+CS_CC_PORT1                    443                                                                                     
+CS_CSM_ADDRESS                 https://<host>.centrastage.net/csm/                                                    
+CS_DOMAIN                      WORKGROUP                                                                               
+CS_PROFILE_DESC                                                                                                        
+CS_PROFILE_NAME                Organization Name                                                        
+CS_PROFILE_PROXY_TYPE          0                                                                                       
+CS_PROFILE_UID                 e180c503-10ae-4544-8bf9-13abaa4f823a                                                    
+CS_WS_ADDRESS                  <host>.centrastage.net                                                           
+DriverData                     C:\Windows\System32\Drivers\DriverData                                                                                                      
+LOCALAPPDATA                   C:\WINDOWS\system32\config\systemprofile\AppData\Local                                                                                                                    
+NUMBER_OF_PROCESSORS           4                                                                                       
+OS                             Windows_NT                                                                              
+Path                           C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WIND...
+PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL                              
+PROCESSOR_ARCHITECTURE         AMD64                                                                                   
+PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 60 Stepping 3, GenuineIntel                                      
+PROCESSOR_LEVEL                6                                                                                       
+PROCESSOR_REVISION             3c03                                                                                    
+ProgramData                    C:\ProgramData                                                                          
+ProgramFiles                   C:\Program Files                                                                        
+ProgramFiles(x86)              C:\Program Files (x86)                                                                  
+ProgramW6432                   C:\Program Files                                                                        
+PSExecutionPolicyPreference    Bypass                                                                                  
+PSModulePath                   C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0...
+PUBLIC                         C:\Users\Public                                                                                                                               
+SystemDrive                    C:                                                                                      
+SystemRoot                     C:\WINDOWS                                                                              
+TEMP                           C:\WINDOWS\TEMP                                                                                                                             
+TMP                            C:\WINDOWS\TEMP                                                                         
+UDF_1                                                                                               
+UDF_10                                                                                                                 
+UDF_11                                                                                                                 
+UDF_12                                                                                                                 
+UDF_13                                                                                                                 
+UDF_14                                                                                                                 
+UDF_15                                                                                                                
+UDF_16                                                                                                                 
+UDF_17                                                                                                                 
+UDF_18                                                                                                                 
+UDF_19                                                                                                                 
+UDF_2                                                                                               
+UDF_20                                                                                                                 
+UDF_21                                                                                                                 
+UDF_22                                                                                                                 
+UDF_23                                                                                                                 
+UDF_24                                                                                                                 
+UDF_25                                                                                                                 
+UDF_26                                                                                                                 
+UDF_27                                                                                                                 
+UDF_28                                                                                                                 
+UDF_29                                                                                                                 
+UDF_3                                                                                                              
+UDF_30                                                                                                                 
+UDF_4                                                                                                                  
+UDF_5                                                                                                                  
+UDF_6                                                                                                                  
+UDF_7                                                                                                                  
+UDF_8                                                                                                                  
+UDF_9                                                                                         
+USERDOMAIN                     WORKGROUP                                                                               
+USERNAME                       VALUE [computer name if running as system]                                                                        
+USERPROFILE                    C:\WINDOWS\system32\config\systemprofile                                                                                                                                                                                         
+windir                         C:\WINDOWS                                                                              
+
+
